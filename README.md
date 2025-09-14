@@ -4,7 +4,7 @@
 
 This Power BI dashboard provides a comprehensive view of insurance risk and claim performance. It helps insurance companies track policies, analyze claim behavior, and identify key customer trends for better decision-making.
 
-🚀 Key Insights & Metrics
+ **Key Insights & Metrics**
 
 Total Policies – Overall count of active insurance policies.
 
@@ -16,7 +16,7 @@ Average Claim Amount – Provides an understanding of typical claim sizes.
 
 Gender-wise Policy Distribution – Breakdown of total policies by gender for customer segmentation.
 
-🛠️ Tools & Techniques
+ **Tools & Techniques**
 
 Power BI Desktop – Interactive dashboard design.
 
@@ -24,8 +24,7 @@ DAX & Power Query – Data transformation and calculated measures.
 
 Excel/CSV – Sample datasets for claims & policies.
 
-📈 Use Cases
-
+ **Use Cases **
 Identify high-frequency claim segments for risk management.
 
 Track financial exposure through claim amounts.
